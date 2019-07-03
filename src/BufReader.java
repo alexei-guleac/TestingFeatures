@@ -19,9 +19,5 @@ public class BufReader {
         } while(c != 'q');
 
         System.out.println("Тест Git");
-
-
-
-
     }
 }
